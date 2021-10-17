@@ -5,7 +5,7 @@ CodePath Prework app that changes text color, view color, and text.
 
 ### App Walk-though
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-c26495c2ecb1.gif" width=200><br>
+![Prework](Prework.gif)
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
