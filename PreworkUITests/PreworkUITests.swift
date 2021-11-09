@@ -1,13 +1,13 @@
 //
-//  CodePath_PreworkUITests.swift
-//  CodePath_PreworkUITests
+//  PreworkUITests.swift
+//  PreworkUITests
 //
-//  Created by Michelle Ly on 11/8/21.
+//  Created by Michelle Ly on 10/14/21.
 //
 
 import XCTest
 
-class CodePath_PreworkUITests: XCTestCase {
+class PreworkUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

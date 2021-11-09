@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CodePath_Prework
+//  Prework
 //
-//  Created by Michelle Ly on 11/8/21.
+//  Created by Michelle Ly on 10/14/21.
 //
 
 import UIKit
